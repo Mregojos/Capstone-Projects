@@ -6,5 +6,5 @@
 
 ## Projet: [Google Project Management Artifacts](https://github.com/Mregojos/Project-Management-Artifacts)
 
-## Project Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
+## Projec: [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
 
