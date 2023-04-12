@@ -1,6 +1,6 @@
 # Capstone-Projects
 
-## Project: [Cloud Architecture Capstone Project](https://github.com/Mregojos/AWS-Cloud-Architecture-Capstone-Project)
+## Project: [Cloud Solutions Architect](https://github.com/Mregojos/AWS-Cloud-Architecture-Capstone-Project)
 * About:
 
 ---
