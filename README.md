@@ -1,6 +1,6 @@
 # Capstone-Projects
 
-## Project: [Cloud Solutions Architect](https://github.com/Mregojos/AWS-Cloud-Architecture-Capstone-Project)
+## Project: [AWS Cloud Solutions Architect](https://github.com/Mregojos/AWS-Cloud-Architecture-Capstone-Project)
 
 ---
 ## Project: [Google IT Automation with Python Final Coursework](https://github.com/Mregojos/IT-Automation-with-Python)
