@@ -9,8 +9,8 @@
 
 ---
 ## Project: [Google Project Management Artifacts](https://github.com/Mregojos/Project-Management-Artifacts)
-* About:
+* About: Artifacts of GOogle Project Management Professional Certificates
 
 ---
 ## Project: [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
-
+* About: Data Analysis Final Project.
