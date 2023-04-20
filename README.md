@@ -1,4 +1,4 @@
-# Capstone-Projects
+# Capstone Projects
 
 ## Project: [AWS Cloud Solutions Architect Projects](https://github.com/Mregojos/AWS-Cloud-Solutions-Architect)
 
